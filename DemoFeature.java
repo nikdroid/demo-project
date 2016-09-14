@@ -3,7 +3,7 @@ public class DemoFeature{
 	
 
      public static void main(String []args){
-        System.out.println("Hello Feature");
+        System.out.println("Hello Features");
      }
 	 
 	 private static String getName(){
